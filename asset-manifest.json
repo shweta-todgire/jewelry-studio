@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jewelry-studio/static/css/main.26405d12.css",
-    "main.js": "/jewelry-studio/static/js/main.ece12daf.js",
+    "main.js": "/jewelry-studio/static/js/main.57b08618.js",
     "index.html": "/jewelry-studio/index.html",
     "main.26405d12.css.map": "/jewelry-studio/static/css/main.26405d12.css.map",
-    "main.ece12daf.js.map": "/jewelry-studio/static/js/main.ece12daf.js.map"
+    "main.57b08618.js.map": "/jewelry-studio/static/js/main.57b08618.js.map"
   },
   "entrypoints": [
     "static/css/main.26405d12.css",
-    "static/js/main.ece12daf.js"
+    "static/js/main.57b08618.js"
   ]
 }
