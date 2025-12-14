@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jewelry-studio/static/css/main.26405d12.css",
+    "main.js": "/jewelry-studio/static/js/main.ee4f0302.js",
+    "index.html": "/jewelry-studio/index.html",
+    "main.26405d12.css.map": "/jewelry-studio/static/css/main.26405d12.css.map",
+    "main.ee4f0302.js.map": "/jewelry-studio/static/js/main.ee4f0302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26405d12.css",
+    "static/js/main.ee4f0302.js"
+  ]
+}
