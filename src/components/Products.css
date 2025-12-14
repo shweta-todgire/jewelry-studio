@@ -1,0 +1,94 @@
+.category-page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: "Playfair Display", serif;
+  color: #1a1a1a;
+  background-color: #fefcf7;
+  text-align: center;
+}
+
+.back-button {
+  background: none;
+  border: none;
+  color: #555;
+  font-size: 14px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: color 0.3s ease;
+}
+
+.back-button:hover {
+  color: #a67c52;
+}
+
+.category-title {
+  font-size: 48px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.category-subtitle {
+  font-size: 18px;
+  letter-spacing: 2px;
+  color: #888;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.category-description {
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 40px;
+  color: #555;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.products-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+.product-card {
+  background-color: #fff;
+  padding: 10px 15px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  width: auto;
+  max-width: 220px;
+}
+
+.product-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+}
+
+.product-image {
+  width: 200px;
+  height: 250px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  object-fit: cover;
+}
+
+.product-name {
+  font-size: 18px;
+  margin: 4px 0 2px;
+  font-weight: 500;
+  color: #1a1a1a;
+}
+
+.product-price {
+  font-size: 16px;
+  color: #a67c52;
+  font-weight: bold;
+  margin: 0;
+}
